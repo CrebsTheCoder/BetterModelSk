@@ -1,0 +1,10 @@
+name: BetterModelSk
+version: '${version}'
+
+main: skdocs.crebs.betterModelSk.BetterModelSk
+api-version: '1.21'
+load: POSTWORLD
+author: CrebsTheCoder
+description: Skript addon for the BetterModel plugin.
+
+depend: [Skript, BetterModel]
